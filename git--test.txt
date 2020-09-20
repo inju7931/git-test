@@ -1,2 +1,6 @@
-number = int( input("enter a number:"))
-print("The number is {}".format(number))
+<!doctype html>
+<html>
+    <body>
+          web page test
+    </body>
+<html>
